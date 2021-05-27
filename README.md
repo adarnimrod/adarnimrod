@@ -13,3 +13,7 @@ yes, I'm looking for a job.
 - [Résumé](https://www.shore.co.il/about)
 - [Docker Hub](https://hub.docker.com/r/adarnimrod/)
 - [LinkedIn](https://www.linkedin.com/in/adarnimrod/)
+
+## My GitHub stats:
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adarnimrod)
