@@ -12,6 +12,7 @@ yes, I'm looking for a job.
 - [Blog](https://www.shore.co.il/blog)
 - [Résumé](https://www.shore.co.il/about)
 - [Docker Hub](https://hub.docker.com/r/adarnimrod/)
+- [PyPI](https://pypi.org/user/adarnimrod/)
 - [LinkedIn](https://www.linkedin.com/in/adarnimrod/)
 
 ## My GitHub stats:
